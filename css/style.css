@@ -1,0 +1,22 @@
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.border-grass {
+    border-color: #9bcc50;
+}
+.border-fire {
+    border-color: #FD7D24;
+}
+.border-water {
+    border-color: #4592C4;
+}
+.border-bug {
+    border-color: #729F3F;
+}
+.border-normal {
+    border-color: #A4ACAF;
+}
